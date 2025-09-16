@@ -80,6 +80,7 @@ sumofsquares() function:
 4. Return the total to the ishappy() function to check whether it is happy number or not.
 # Code
 class Solution:
+
     def isHappy(self, n: int) -> bool:
     
         visit=set()
